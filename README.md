@@ -2,4 +2,4 @@
 
 This public GitHub repository contains the code and sample data for the paper `Model calibration with spatial data and varying uncertainties: the case of Tephra2 inversion' by Rabonza et al. (2021). 
 
-Dataset 1 is available on GitHub at https://github.com/flying-rock/kelud14 (deposit_data.csv).
+Dataset 1 is available on GitHub at https://github.com/flying-rock/kelud14 (deposit_data.csv). Dataset 2 relate to publish results from F Maeno  et al. (2019), `A sequence of a plinian eruption preceded by dome destruction at Keludvolcano, Indonesia, on February 13, 2014, revealed from tephra fallout and pyroclastic densitycurrent deposits.' J. Volcanol. Geotherm. Res.382, 24–41.
